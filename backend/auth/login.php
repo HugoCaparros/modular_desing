@@ -11,6 +11,6 @@
         <input type="password" name="password" placeholder="Password" required><br>
         <button type="submit">Entrar</button>
     </form>
-    <p><a href="https://modulardesing.vercel.app/frontend/index.html">Volver al inicio</a></p>
+    <p><a href="https://modulardesing.vercel.app">Volver al inicio</a></p>
 </body>
 </html>

@@ -21,5 +21,5 @@ if ($resultado->num_rows > 0) {
     }
 }
  
-echo "Usuario o contraseña incorrectos. <a href='https://modulardesing.vercel.app/frontend/index.html'>Intentar de nuevo</a>";
+echo "Usuario o contraseña incorrectos. <a href='https://modulardesing.vercel.app'>Intentar de nuevo</a>";
 ?>
